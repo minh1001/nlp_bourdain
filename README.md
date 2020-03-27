@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="780" height="373" src="https://github.com/minh1001/nlp_bourdain/blob/master/bd.PNG">
+</p>
+
 # Anthony Bourdain: Parts Unknown - Episode Recommender
 
 ### Objective: 
