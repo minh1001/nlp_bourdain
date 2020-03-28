@@ -14,3 +14,6 @@ Based on the transcripts of 57 "Parts Unknown" episodes, build a model that will
 
 ### Data:
 57 episode transcripts scraped from CNN - http://transcripts.cnn.com/TRANSCRIPTS/abpu.html
+
+### Code:
+All coding was done in a Jupyter Notebook via Google Colab.
